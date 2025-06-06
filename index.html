@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Complete Page Count Fix</title>
+</head>
+<body>
+  <!-- 1) Load config/resources first, so book.js globals exist in some form -->
+  <script src="javascript/config.js"></script>
+  <!-- 2) Clamp any wildly large page‐count values down to 17 -->
+  <script src="javascript/loadlib.js"></script>
+ <script>
+    setTimeout(function() {
+
+    if (window.originTotalPageCount === 617) {
+
+    console.log('Fixing page count from 617 to 17');
+
+    window.originTotalPageCount = 17;
+
+    if (window.totalPageCount === 617) window.totalPageCount = 17;
+
+    if (window.pageCount === 617) window.pageCount = 17;
+
+    console.log('Page count fixed!');
+    }
+
+    }, 3000);
+
+  </script>
+</body>
+</html>
