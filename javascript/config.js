@@ -279,56 +279,56 @@ var htmlConfig = {
         "doublePageIPhoneSettingStep2": "2.手機橫過來閱讀書籍"
     }],
     "fliphtml_pages": [{
-        "l": "files/page/3pigstory.jpg",
-        "t": "files/page/3pigstory.jpg"
+        "l": "page/3pigstory.jpg",
+        "t": "page/3pigstory.jpg"
     }, {
-        "l": "files/page/strawhouse.jpg",
-        "t": "files/page/strawhouse.jpg"
+        "l": "page/strawhouse.jpg",
+        "t": "page/strawhouse.jpg"
     }, {
-        "l": "files/page/woodhouse.jpg",
-        "t": "files/page/woodhouse.jpg"
+        "l": "page/woodhouse.jpg",
+        "t": "page/woodhouse.jpg"
     }, {
-        "l": "files/page/brickhouse.jpg",
-        "t": "files/page/brickhouse.jpg"
+        "l": "page/brickhouse.jpg",
+        "t": "page/brickhouse.jpg"
     }, {
-        "l": "files/page/wolf_strawhouse.jpg",
-        "t": "files/page/wolf_strawhouse.jpg"
+        "l": "page/wolf_strawhouse.jpg",
+        "t": "page/wolf_strawhouse.jpg"
     }, {
-        "l": "files/page/wolf_woodhouse.jpg",
-        "t": "files/page/wolf_woodhouse.jpg"
+        "l": "page/wolf_woodhouse.jpg",
+        "t": "page/wolf_woodhouse.jpg"
     }, {
-        "l": "files/page/wolf_brickhouse.jpg",
-        "t": "files/page/wolf_brickhouse.jpg"
+        "l": "page/wolf_brickhouse.jpg",
+        "t": "page/wolf_brickhouse.jpg"
     }, {
-        "l": "files/page/wolf_chimney.jpg",
-        "t": "files/page/wolf_chimney.jpg"
+        "l": "page/wolf_chimney.jpg",
+        "t": "page/wolf_chimney.jpg"
     }, {
-        "l": "files/page/wolf_hotwater.jpg",
-        "t": "files/page/wolf_hotwater.jpg"
+        "l": "page/wolf_hotwater.jpg",
+        "t": "page/wolf_hotwater.jpg"
     }, {
-        "l": "files/page/strawhouse.jpg",
-        "t": "files/page/strawhouse.jpg"
+        "l": "page/strawhouse.jpg",
+        "t": "page/strawhouse.jpg"
     }, {
-        "l": "files/page/woodhouse.jpg",
-        "t": "files/page/woodhouse.jpg"
+        "l": "page/woodhouse.jpg",
+        "t": "page/woodhouse.jpg"
     }, {
-        "l": "files/page/brickhouse.jpg",
-        "t": "files/page/brickhouse.jpg"
+        "l": "page/brickhouse.jpg",
+        "t": "page/brickhouse.jpg"
     }, {
-        "l": "files/page/wolf_strawhouse.jpg",
-        "t": "files/page/wolf_strawhouse.jpg"
+        "l": "page/wolf_strawhouse.jpg",
+        "t": "page/wolf_strawhouse.jpg"
     }, {
-        "l": "files/page/wolf_woodhouse.jpg",
-        "t": "files/page/wolf_woodhouse.jpg"
+        "l": "page/wolf_woodhouse.jpg",
+        "t": "page/wolf_woodhouse.jpg"
     }, {
-        "l": "files/page/wolf_brickhouse.jpg",
-        "t": "files/page/wolf_brickhouse.jpg"
+        "l": "page/wolf_brickhouse.jpg",
+        "t": "page/wolf_brickhouse.jpg"
     }, {
-        "l": "files/page/wolf_chimney.jpg",
-        "t": "files/page/wolf_chimney.jpg"
+        "l": "page/wolf_chimney.jpg",
+        "t": "page/wolf_chimney.jpg"
     }, {
-        "l": "files/page/wolf_hotwater.jpg",
-        "t": "files/page/wolf_hotwater.jpg"
+        "l": "page/wolf_hotwater.jpg",
+        "t": "page/wolf_hotwater.jpg"
     }
 ],
     "ols": [{
